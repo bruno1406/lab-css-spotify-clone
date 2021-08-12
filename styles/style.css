@@ -6,3 +6,12 @@ Green: #00B172
 White: #FFF
 
 */
+
+.navBarItems {
+  display: flex;
+  flex-direction: row;
+}
+
+.spotimg {
+  width: 20%;
+}
